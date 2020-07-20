@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi, I'm Malicia 👋 
 
 <!--
 **maliciacanv/maliciacanv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -24,4 +24,4 @@ const malicia = {
 }
 ```
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=maliciacanv)](https://github.com/maliciacanv/github-readme-stats)
+![Malicia github stats](https://github-readme-stats.vercel.app/api?username=maliciacanv&show_icons=true&theme=synthwave)
