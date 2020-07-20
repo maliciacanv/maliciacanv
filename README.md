@@ -19,9 +19,9 @@ Here are some ideas to get you started:
 ```javascript
 const malicia = {
   pronouns: "she" | "her",
-  code: [Javascript, Typescript, HTML 5, CSS 3],
-  tools: [Angular, React, Node js, Material, Materialize, 
-          Bootstrap 4, Git, Api-rest, microservicios, Soa],
+  code: [Javascript, Typescript, HTML-5, CSS-3],
+  tools: [Angular, React, Node-js, Material, Materialize, 
+          Bootstrap-4, Git, Api-rest, microservicios, Soa],
 }
 ```
 
