@@ -17,16 +17,11 @@ Here are some ideas to get you started:
 
 
 ```javascript
-const thai = {
+const malicia = {
   pronouns: "she" | "her",
-  code: [Javascript, Typescript, HTML, CSS, Ruby, Python, Java],
-  tools: [React, Redux, Node, Storybook, Styled-Components, Jest, Docker],
-  architecture: ["microservices", "event-driven", "design system pattern"],
-  techCommunities: {
-                        coorganizer: "AfroPython",
-                        speaker: "Latinity",
-                        mentor: "RailsGirls POA"
-                      },
- challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
+  code: [Javascript, Typescript, HTML, CSS],
+  tools: [Angular, React, ],
 }
 ```
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=maliciacanv)](https://github.com/maliciacanv/github-readme-stats)
