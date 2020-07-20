@@ -1,4 +1,4 @@
-### Hi, I'm Malicia 👋 
+### Hi, I'm Malicia 👋  <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
 
 <!--
 **maliciacanv/maliciacanv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -19,8 +19,9 @@ Here are some ideas to get you started:
 ```javascript
 const malicia = {
   pronouns: "she" | "her",
-  code: [Javascript, Typescript, HTML, CSS],
-  tools: [Angular, React, ],
+  code: [Javascript, Typescript, HTML 5, CSS 3],
+  tools: [Angular, React, Node js, Material, Materialize, 
+          Bootstrap 4, Git, Api-rest, microservicios, Soa],
 }
 ```
 
